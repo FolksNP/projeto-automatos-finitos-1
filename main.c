@@ -1,3 +1,11 @@
+/*
+ * Grupo:
+ * Felipe Silva Siqueira - 10445036
+ * Gustavo Henrique de Sousa Santos - 10721355
+ * João Pedro Honorato - 10726497
+ * Rafael Teodoro Cruz - 10723258
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
